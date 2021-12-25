@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rezang
-- 👀 I’m interested in see theater of sentiments
+- 👀 I'm interested in seeing the theater of sentiments.
 - 🌱 I’m currently learning NLP
 
 <!---
